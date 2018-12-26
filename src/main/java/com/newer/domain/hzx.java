@@ -17,4 +17,7 @@ public class hzx {
     public void setName(String name) {
         this.name = name;
     }
+    public void tsb (){
+        System.out.println("haha ");
+    }
 }
